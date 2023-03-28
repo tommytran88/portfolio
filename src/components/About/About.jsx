@@ -10,10 +10,10 @@ const About = () => {
       <section className="about-me">
         <h1>About me</h1>
         <p>
-          I am a <b>Front-end Developer</b> with +4 years of experience in web
-          development using modern front-end technologies such as React, Redux,
-          React Router v5, HTML5, SCSS/SASS, JavaScript, ES6, TypeScript,
-          Node.js, Bootstrap, Webpack, Babel, etc.
+          I am a <b>Full-Stack Developer</b> with +5 years of experience in web
+          development using modern technologies such as React, Redux, React
+          Router v5, HTML5, SCSS/SASS, JavaScript, ES6, TypeScript, Node.js,
+          Bootstrap, Webpack, Babel, etc.
         </p>
       </section>
       <section className="technical-skills">

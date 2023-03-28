@@ -42,7 +42,7 @@ const Experience = () => {
         <br />
         <ExperienceListElement
           client={"Veyo"}
-          duration={"November 2019 - January 2021"}
+          duration={"May 2019 - January 2021"}
           location={"San Diego, CA"}
           role={"Front-End Developer"}
           project={"Veyo Web Portal"}
@@ -76,7 +76,7 @@ const Experience = () => {
         <br />
         <ExperienceListElement
           client={"Verimatrix"}
-          duration={"July 2018 - September 2019"}
+          duration={"September 2017 - April 2019"}
           location={"San Diego, CA"}
           role={"Front-End Developer"}
           project={"Secure Delivery Platform"}
